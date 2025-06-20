@@ -1,0 +1,18 @@
+GitHub Tutorial
+
+#Reference Apna College
+Git
+It is a Version Control system is a tools that helps to trackchanges in the code.It is the most popular Version control system in the world.
+
+-->It is used in companies as well to track the code changes/history.
+-->It is used for collboration as well soi that people don't overwrite each other's code.
+-->Github is website used by developers to manage their code using Git.
+-->The folder which is used by the developers is called as (Repository).
+-->Commit means doing finalising the code and pushing the code.
+
+git config --global user.name “First Name last Name” -->Set a name that is identifiable for credit when review version history
+
+git config --global user.email “[valid-email]” -->Set an email address that will be associated with each history marker
+
+git config --list --> is used to see the configuration.
+
